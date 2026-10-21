@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "FITAI",
+    "slug": "fitai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.fitai.app",
+      "usesCleartextTraffic": true,
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0F"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.fitai.app",
+      "supportsTablet": true
+    }
+  }
+}

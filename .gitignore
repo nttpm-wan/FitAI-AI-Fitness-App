@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+.expo/
+.tmp-build/
+dist/
+web-build/
+android/
+ios/
+.env
+.env.*.local
+npm-debug.log*
+yarn-debug.log*

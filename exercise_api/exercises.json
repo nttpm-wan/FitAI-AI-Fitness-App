@@ -1,0 +1,14 @@
+[
+  { "id": "squat", "name": "Squat", "muscle": "ขา", "category": "legs", "level": "Beginner", "icon": "🦵", "sets": "3-4", "reps": "12-15", "kcal": 50, "type": "strength", "tag": "Lower body" },
+  { "id": "bench-press", "name": "Bench Press", "muscle": "อก", "category": "chest", "level": "Intermediate", "icon": "🏋️", "sets": "4", "reps": "8-12", "kcal": 60, "type": "strength", "tag": "Push" },
+  { "id": "pull-up", "name": "Pull-up", "muscle": "หลัง", "category": "back", "level": "Intermediate", "icon": "🔝", "sets": "3", "reps": "6-10", "kcal": 55, "type": "strength", "tag": "Pull" },
+  { "id": "plank", "name": "Plank", "muscle": "แกนกลาง", "category": "core", "level": "Beginner", "icon": "🧘", "sets": "3", "reps": "30-60s", "kcal": 20, "type": "flexibility", "tag": "Core" },
+  { "id": "deadlift", "name": "Deadlift", "muscle": "หลัง/ขา", "category": "back", "level": "Advanced", "icon": "💪", "sets": "4", "reps": "5-8", "kcal": 80, "type": "strength", "tag": "Lower body" },
+  { "id": "lunge", "name": "Lunge", "muscle": "ขา", "category": "legs", "level": "Beginner", "icon": "🚶", "sets": "3", "reps": "10-12", "kcal": 45, "type": "strength", "tag": "Lower body" },
+  { "id": "push-up", "name": "Push-up", "muscle": "อก/แขน", "category": "chest", "level": "Beginner", "icon": "⬆️", "sets": "3-4", "reps": "15-20", "kcal": 40, "type": "strength", "tag": "Push" },
+  { "id": "russian-twist", "name": "Russian Twist", "muscle": "แกนกลาง", "category": "core", "level": "Beginner", "icon": "🔄", "sets": "3", "reps": "20", "kcal": 25, "type": "strength", "tag": "Core" },
+  { "id": "shoulder-press", "name": "Shoulder Press", "muscle": "ไหล่", "category": "shoulders", "level": "Intermediate", "icon": "🙆", "sets": "3-4", "reps": "10-12", "kcal": 55, "type": "strength", "tag": "Push" },
+  { "id": "bicep-curl", "name": "Bicep Curl", "muscle": "แขน", "category": "arms", "level": "Beginner", "icon": "💪", "sets": "3", "reps": "12-15", "kcal": 35, "type": "strength", "tag": "Pull" },
+  { "id": "burpee", "name": "Burpee", "muscle": "ทั้งตัว", "category": "cardio", "level": "Advanced", "icon": "🔥", "sets": "3-4", "reps": "10-15", "kcal": 90, "type": "cardio", "tag": "Conditioning" },
+  { "id": "mountain-climber", "name": "Mountain Climber", "muscle": "แกนกลาง", "category": "core", "level": "Intermediate", "icon": "⛰️", "sets": "3", "reps": "20-30", "kcal": 60, "type": "cardio", "tag": "Conditioning" }
+]
